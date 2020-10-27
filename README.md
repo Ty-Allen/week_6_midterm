@@ -1,6 +1,6 @@
 #Week 6 Midterm
 
-Debate on whether books or movies are better.
+Debate on whether books or movies are better.(Books are!)
 
 ##Installation
 
